@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="912ce1e3-fa21-46a7-aae9-3eb46e9d5e8c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pe/isil/evaluacionpermanente1/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/scripts/base_scripts.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/build/classes/procesos/VectorNros.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/build/classes/procesos/VectorNros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/build/classes/ventanas/FrmPrincipal$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/build/classes/ventanas/FrmPrincipal$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/build/classes/ventanas/FrmPrincipal$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/build/classes/ventanas/FrmPrincipal$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/build/classes/ventanas/FrmPrincipal$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/build/classes/ventanas/FrmPrincipal$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/build/classes/ventanas/FrmPrincipal$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/build/classes/ventanas/FrmPrincipal$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/build/classes/ventanas/FrmPrincipal$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/build/classes/ventanas/FrmPrincipal$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/build/classes/ventanas/FrmPrincipal$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/build/classes/ventanas/FrmPrincipal$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/build/classes/ventanas/FrmPrincipal$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/build/classes/ventanas/FrmPrincipal$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/build/classes/ventanas/FrmPrincipal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/build/classes/ventanas/FrmPrincipal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/nbproject/private/private.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/src/procesos/VectorNros.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/src/procesos/VectorNros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/src/ventanas/FrmPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ALGORITMO_Y_ESTRUCTURA_DE_DATOS/Semana 03/PryVectorCanalesNros/src/ventanas/FrmPrincipal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../evaluacion-permanete1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../evaluacion-permanete1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../evaluacion-permanete1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../evaluacion-permanete1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../evaluacion-permanete1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../evaluacion-permanete1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../evaluacion-permanete1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../evaluacion-permanete1/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FDg4XIaOptPAzs62PaSRK5CxR4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/ISIL/IVCICLO/DESARROLLO_DE_APLICACIONES_EMPRESARIALES/evaluacion_permanente1",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "spring.configuration.checksum": "d39edd933678658bfe1c6ff24d2afa9e"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pe.isil.evaluacionpermanente1.Application" />
+      <module name="evaluacion_permanente1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.isil.evaluacionpermanente1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="912ce1e3-fa21-46a7-aae9-3eb46e9d5e8c" name="Changes" comment="" />
+      <created>1664031877820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664031877820</updated>
+      <workItem from="1664031879035" duration="15000" />
+      <workItem from="1664031927898" duration="2258000" />
+      <workItem from="1664035998852" duration="9445000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
